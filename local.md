@@ -17,9 +17,9 @@ Normal Text
   
   
   
-  {{< tip >}}
-  
-  {{</ tip >}}
+ {{< tip>}}
+Success
+{{</ tip>}}
   
  1. Item 1
 1. Item 2
