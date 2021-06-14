@@ -92,5 +92,12 @@ Runner.instance_.gameOver=() => {}
 ```
 
 
+kerala covid19 all api resources
+
+```
+https://keralastats.coronasafe.live/
+```
+
+
 
 
