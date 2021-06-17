@@ -101,5 +101,7 @@ https://keralastats.coronasafe.live/
 press <kbd>control+m</kbd>
 
 
+<marquee>see you soon</marqeee>
+
 
 
