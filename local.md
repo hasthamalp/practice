@@ -108,3 +108,8 @@ press <kbd>control+m</kbd>
 # SongRec is an open-source Shazam client for Linux, 
 
 ```https://github.com/marin-m/SongRec```
+
+debian videos
+
+```https://meetings-archive.debian.net/```
+
