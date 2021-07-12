@@ -105,5 +105,6 @@ press <kbd>control+m</kbd>
 
 # Linux's 30th Anniversary
 ```http://anniv.co/linux```
+# SongRec is an open-source Shazam client for Linux, 
 
-
+```https://github.com/marin-m/SongRec```
